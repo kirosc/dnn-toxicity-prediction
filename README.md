@@ -4,7 +4,7 @@ This project is to build a convolutional neural network (CNN) to predict the tox
 
 ### Prerequisites
 
-TensorFlow: 1.5.0
+TensorFlow: 1.5.0  
 TensorBoard (Optional): 1.5.1
 
 ### Dataset
@@ -19,7 +19,7 @@ This project uses a dataset of drug molecules in Simplified Molecular-Input Line
 
 ## Running
 
-Run [train.py](https://github.com/KirosC/dnn-toxicity-prediction/blob/master/train.py) to train a network model
+Run [train.py](https://github.com/KirosC/dnn-toxicity-prediction/blob/master/train.py) to train a network model  
 Run [evaluate.py](https://github.com/KirosC/dnn-toxicity-prediction/blob/master/evaluate.py) to test all the generated models in current path
 
 
